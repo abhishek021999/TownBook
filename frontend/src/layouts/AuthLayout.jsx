@@ -10,6 +10,7 @@ const AuthLayout = () => {
         alignItems: 'center',
         justifyContent: 'center',
         bgcolor: 'background.default',
+        
       }}
     >
       <Container maxWidth="sm">
@@ -20,6 +21,8 @@ const AuthLayout = () => {
             display: 'flex',
             flexDirection: 'column',
             alignItems: 'center',
+            
+            
           }}
         >
           <Typography
